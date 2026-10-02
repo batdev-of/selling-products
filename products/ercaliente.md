@@ -13,13 +13,13 @@ Cuenta con:
 * Selección de canal de notificaciones [sms, push, WhatsApp, E-Mail] (requiere de servicios de 3eros)
 * Configuración de preferencias dietéticas 
 * Control de alergias 
-* Futuramente integracion 2FA e inicio de sesión x redes sociales (A petición del cliente)
+* Futuramente integración 2FA e inicio de sesión x redes sociales (A petición del cliente)
 
 ## Menú de Bocateria
 
 * Listado de Productos 
 * Posibilidad de personalizar tu propio pedido 
-* Filtro mediate nombre (nuevos filtros a peticion del cliente)
+* Filtro mediante nombre (nuevos filtros a petición del cliente)
 
 ## Panel de Administración
 
@@ -29,8 +29,8 @@ Cuenta con:
 
 * La web completa cuenta con un diseño responsive y amigable para el usuario 
 * Colores llamativos debido al manual de identidad del cliente 
-* Lenguaje +18 con doble sentido (Abstento a cambios)
-* SEO para redes sociales (resumenes de información OpenGraph para redes sociales)
+* Lenguaje +18 con doble sentido (Atento a cambios)
+* SEO para redes sociales (resúmenes de información OpenGraph para redes sociales)
 
 ## Backend
 
