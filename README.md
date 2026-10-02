@@ -10,7 +10,7 @@ Para todos los servicios **web** nos encargamos nosotros como equipo de las conf
 
 * [Telegram](https://t.me/BlizzSoftword?text=Hola%2C+estoy+interesado+en+uno+de+sus+productos+de+Hackmmers)
 * [E-Mail](mailto:blizzsoftword@gmail.com?subject=Hola%2C+estoy+interesado+en+uno+de+sus+productos+de+Hackmmers)
-* [Whatsapp](https://wa.me/+5353013028?textHola%2C+estoy+interesado+en+uno+de+sus+productos+de+Hackmmers)
+* [Whatsapp](https://wa.me/+5353013028?text=Hola%2C+estoy+interesado+en+uno+de+sus+productos+de+Hackmmers)
 
 ## Productos
 
